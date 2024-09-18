@@ -1,0 +1,1 @@
+package cn.ken.infrastructure.gateway.adapter;
